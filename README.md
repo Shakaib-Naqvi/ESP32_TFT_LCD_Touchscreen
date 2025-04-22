@@ -1,6 +1,4 @@
-# ESP32_TFT_LCD_Touchscreen
-
-# ESP32 Touchscreen UI Demo
+# ESP32 TFT LCD Touchscreen  UI Demo
 
 ![UI Demo](1.jpeg)
 ![UI Demo2](2.jpeg)
