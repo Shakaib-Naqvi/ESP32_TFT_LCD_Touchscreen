@@ -2,9 +2,9 @@
 
 # ESP32 Touchscreen UI Demo
 
-![UI Demo](1.png)
-![UI Demo2](2.png)
-![UI Demo3](3.png)
+![UI Demo](1.jpeg)
+![UI Demo2](2.jpeg)
+![UI Demo3](3.jpeg)
 
 This is a basic demo using an ESP32, an ILI9341 TFT display, and an XPT2046 touch controller. The screen shows two buttons — RED and GREEN. When you touch either one, the screen changes to that color and then goes back.
 
